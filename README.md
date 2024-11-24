@@ -1,2 +1,2 @@
 # This is test
-Thus is my text
+Thus is my text!
